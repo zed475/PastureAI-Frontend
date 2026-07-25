@@ -200,3 +200,4 @@ export function getWeatherSummary(stations: StationWeather[]) {
     lastUpdated: new Date().toISOString()
   };
 }
+// AI/ML module initialized
